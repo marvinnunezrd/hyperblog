@@ -45,8 +45,15 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
+}
+
+#footer
+{
+    background-color: gray;
+    text-align-last: center;
     padding: 1em;
 }
