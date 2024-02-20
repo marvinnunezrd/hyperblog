@@ -48,12 +48,15 @@ body
 
 #post
 {
-    background: white;
+    padding: 1em;
+    background-color: white;
 }
 
 #footer
 {
-    background-color: gray;
+    background: gray;
+    color: white;
+    font-weight: bold;
     text-align-last: center;
-    padding: 1em;
+    padding: 0.5em;
 }
